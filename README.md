@@ -21,8 +21,6 @@
 |第14週|5/26 |增強式學習 - PPO |(錄影：Lecture 12:Reinforcement Learning) |
 |第15週|6/02 |大型模型的壓縮| (錄影：Lecture 13:Network Compression) |
 |第16週|6/09 |期末考週 |
-|第17週|6/16 ||(錄影：Lecture 14:Life-long Learning) |
-|第18週|6/23 ||(錄影：Lecture 15:Meta Learning)|
 
 # 打卡规则 
 
