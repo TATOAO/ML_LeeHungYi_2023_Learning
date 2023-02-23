@@ -1,5 +1,9 @@
 # 启动 2023-02-23
 
+[李宏毅老师2023课程主页](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php ":)")
+
+https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
+
 明天李宏毅2023年的课程就开始了，这里为群里的朋友打卡用的, 没有入群的朋友可以加我vx: TATOAO。
 
 # 课纲
@@ -25,4 +29,6 @@
 # 打卡规则 
 
 每周我会开一个对应 issue, 大家就直接往里面评论当周的学习成果即可，每周的周六晚上23:59分会关闭评论区
+
+
 详情请看issue
